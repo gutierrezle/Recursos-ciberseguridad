@@ -1,6 +1,6 @@
 Vista de navegador: [Recursos ciberseguridad](https://github.com/neftalito/Recursos-ciberseguridad).
 # Índice
-- [Utilidades](#utilidades)
+- [Utilidades](#utilidades )
 - [Aplicaciones](#aplicaciones)
 - [VPNs seguros y con anonimidad](#vpns-seguros-y-con-anonimidad)
 - [Windows](#windows)
